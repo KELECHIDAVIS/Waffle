@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Waffle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Waffle_jar</output-path>
+    <root id="archive" name="Waffle.jar">
+      <element id="module-output" name="Waffle" />
+      <element id="library" level="project" name="Waffle" />
+    </root>
+  </artifact>
+</component>
